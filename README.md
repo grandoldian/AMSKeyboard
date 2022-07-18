@@ -32,4 +32,4 @@ Known Issues
 * Some keymashes seem to press seemingly random keys
 * Typing too quickly sometimes has issues
 
-These latter two issues might prove unresolvable. Please help if you can.
+These latter two issues might prove unresolvable. Any suggestions welcome.
