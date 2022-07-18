@@ -16,13 +16,12 @@ Requirements
 
 Basic Rules
 
-It's British English layout.
-The numeric keypad F keys will work on the PS/2 numeric keypad with Num Lock on. These keys are also on the PS/2 F keys.
-The code allows for switching between two keymaps, and I've only done the one so far, largely representing the keys from the 6128 keyboard in their physical position on the PC keyboard.
-
+* The numeric keypad F keys will work on the PS/2 numeric keypad with Num Lock on. These keys are also on the PS/2 F keys.
+* The code allows for switching between two keymaps, and I've only done the one so far, largely representing the keys from the 6128 keyboard in their physical position on the PC keyboard.
 
 Known Issues
 
+* It's British English layout.
 * Only tested on an Arduino Nano
 * Only tested with an MT8816
 * Only tested on the CPC 6128, and there will be keys missing on other models
@@ -30,8 +29,6 @@ Known Issues
 * Backtick doesn't work
 * Right CTRL key isn't mapped yet
 * Some keymashes seem to press seemingly random keys
-
-Typing too quickly also has issues
-
+* Typing too quickly also has issues
 
 These latter two issues might prove unresolvable. Please help if you can.
