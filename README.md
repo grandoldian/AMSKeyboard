@@ -26,9 +26,9 @@ Known Issues
 * Only tested on an Arduino Nano
 * Only tested with an MT8816
 * Only tested on the CPC 6128, and there will be keys missing on other models
-* TAB doesn't work
+* Tab doesn't work
 * Backtick doesn't work
-* Right CTRL key isn't mapped yet
+* Right Ctrl key isn't mapped yet (forgot)
 * Some keymashes seem to press seemingly random keys
 * Typing too quickly sometimes has issues
 
