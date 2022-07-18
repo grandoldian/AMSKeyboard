@@ -8,7 +8,7 @@ I'd originally attempted this using the CPC connected straight to io lines - on 
 
 Requirements
 
-* Arduino Nano
+* Arduino Nano (ATMega328)
 * MT8812/8816
 * PS/2 Keyboard
 * Amstrad CPC
