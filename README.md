@@ -22,7 +22,7 @@ Basic Rules
 
 Known Issues
 
-* It's British English layout.
+* It's British English layout right now.
 * Only tested on an Arduino Nano
 * Only tested with an MT8816
 * Only tested on the CPC 6128, and there will be keys missing on other models
