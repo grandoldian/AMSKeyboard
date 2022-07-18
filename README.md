@@ -1,7 +1,7 @@
 # AMSKeyboard
 AMSKeyboard - PS/2 Keyboard interface for the Amstrad CPC
 
-This so far is the first revision of a modification of the PS/2 edition of the C64keyboard project by Robert VanHazinga for the Amstrad CPC range of computers. So far only tested with the Amstrad CPC 6128 and only providing the basic keys.
+This so far is the first revision of a modification of the PS/2 edition of the C64keyboard project by Robert VanHazinga for the Amstrad CPC range of computers. So far only tested with the Amstrad CPC 6128 and only providing regular keys on such.
 Diagrams and tables of mappings will follow, but as a basis they are simply modifications of the C64keyboard project.
 
 I'd originally attempted this using the CPC connected straight to io lines - on the Pi with GPIO via level converters as well as an awkward mapping on Arduino. Both worked out badly. Rob "Peepo" Taylor pointed me in the direction of the C64keyboard project which uses the MT88xx chip as an intermediate device and here we are.
