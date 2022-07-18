@@ -18,6 +18,7 @@ Basic Rules
 
 * The numeric keypad F keys will work on the PS/2 numeric keypad with Num Lock on. These keys are also on the PS/2 F keys.
 * The code allows for switching between two keymaps, and I've only done the one so far, largely representing the keys from the 6128 keyboard in their physical position on the PC keyboard.
+* There aren't enough lines on the MT8808 for the Amstrad CPC, so if you're going to try that, you'll have to forgo something.
 
 Known Issues
 
