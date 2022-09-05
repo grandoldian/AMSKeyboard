@@ -34,4 +34,4 @@ Known Issues
 
 These latter two issues might prove unresolvable. Any suggestions welcome.
 
-Update: 05/09/2022. Added prototype (tested) gerber for 6128. Overlays IC101 (74LS145) and IC102 (AY) leaving keyboard connectors exposed.
+Update: 05/09/2022. Added prototype (tested) gerber for 6128. Overlays IC101 (74LS145) and IC102 (AY) leaving keyboard connectors exposed. Requires 17-20mm pin headers.
