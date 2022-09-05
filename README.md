@@ -33,3 +33,5 @@ Known Issues
 * Typing too quickly sometimes has issues
 
 These latter two issues might prove unresolvable. Any suggestions welcome.
+
+Update: 05/09/2022. Added prototype (tested) Gerber for 6128.
